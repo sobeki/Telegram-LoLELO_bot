@@ -22,7 +22,8 @@ Set your API keys at the **config.js file**. Then start listening with:
 ```
 npm start
 ```
-
+# EXAMPLE
+![Alt asd](https://raw.githubusercontent.com/sobeki/Telegram-LoLELO_bot/master/lol_pics/example.png)
 ## Authors
 
 * [**Sobeki**](https://github.com/sobeki)
