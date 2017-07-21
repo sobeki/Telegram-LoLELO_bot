@@ -3,7 +3,7 @@ Track your actual rank on League of Legends.
 
 ## Commands
 * /start - welcomes user.
-* /name \<summonerName\> - returns your ranking and summoner icon.
+* /name \<summonerName\> - returns your ranking and summoner icon, working on BR servers only.
 * /faker - shows SKT|Faker photo.
 
 ### Installing
