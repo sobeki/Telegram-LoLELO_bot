@@ -1,5 +1,5 @@
 # Telegram-LoLELO_bot
-Track your actual rank on League of Legends.
+Track your actual rank on League of Legends Brazil servers.
 
 ## Commands
 * /start - welcomes user.
